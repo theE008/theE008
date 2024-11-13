@@ -7,6 +7,16 @@
 <div style="text-align: center; width: 100%; margin-top: 20px;">
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theE008&custom_title=My%20contributions%20/%20Minhas%20contribuições&hide_border=true&theme=high-contrast" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theE008&custom_title=%20Minhas%20contribuições/My%20contributions%20&hide_border=true&theme=high-contrast" alt="GitHub Activity Graph"/>
   </a>
 </div>
+
+<div align="center">
+
+<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=theE008&show_icons=true&count_private=true&hide_border=true&title_color=9136F7&icon_color=2D2DC9&text_color=c9d1d9&bg_color=0000" alt="theE008 github stats" />
+<img width="19%" height="195px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F14b2DHqOxqS3Qc%2Fgiphy.gif&f=1&nofb=1&ipt=a1122ab3f00af99e314ac398b3aa828245f34fd642fdc8bc29644af74de23c93&ipo=images">
+<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theE008&layout=compact&hide_border=true&title_color=9136F7&text_color=3131DB&bg_color=0000" alt="Top Languages" />
+
+</div>
+
+
