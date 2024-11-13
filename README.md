@@ -1,37 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+|     |     |     |
+|-----|-----|-----|
+| ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=Saudações!;Meu+nome+é;Sou+um+estudante+de;Sinta-se+à+vontade+para) <br> ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=✧✦✧✦✧✦✧✦✧;Thiago+Pereira+de+Oliveira;Ciência+da+Computação+na+PUC+Minas;explorar!) | ![GIF](https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif) | ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=Greetings!;My+name+is;I+am+a+student+of;Feel+free+to) <br> ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=✧✦✧✦✧✦✧✦✧;Thiago+Pereira+de+Oliveira;Computer+Science+at+PUC+Minas;wander+around!) |
+|     |     |     |
 
-  <!-- Left: Portuguese Typing Animations -->
-  <div style="width: 30%;">
-    <!-- First Portuguese Typing SVG Animation -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=Saudações!;Meu+nome+é;Sou+um+estudante+de;Sinta-se+à+vontade+para" alt="Typing SVG"/>
-    </a>
-    <br>
-    <!-- Second Portuguese Typing SVG Animation -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=✧✦✧✦✧✦✧✦✧;Thiago+Pereira+de+Oliveira;Ciência+da+Computação+na+PUC+Minas;explorar!" alt="Typing SVG"/>
-    </a>
-  </div>
-
-  <!-- Center: GIF -->
-  <div style="width: 30%; display: flex; justify-content: center;">
-    <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" alt="hippo" style="height: 200px;">
-  </div>
-
-  <!-- Right: English Typing Animations -->
-  <div style="width: 30%;">
-    <!-- First English Typing SVG Animation -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=Greetings!;My+name+is;I+am+a+student+of;Feel+free+to" alt="Typing SVG"/>
-    </a>
-    <br>
-    <!-- Second English Typing SVG Animation -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=✧✦✧✦✧✦✧✦✧;Thiago+Pereira+de+Oliveira;Computer+Science+at+PUC+Minas;wander+around!" alt="Typing SVG"/>
-    </a>
-  </div>
-
-</div>
 
 <div style="text-align: center; width: 100%; margin-top: 20px;">
   <!-- GitHub Activity Graph -->
