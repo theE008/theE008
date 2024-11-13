@@ -1,4 +1,9 @@
-## Hi there 👋
+## Profile / Perfil
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!;My+name+is+Thiago+Pereira+de+Oliveira;Im+a+student+of+Computer+Science+at+PUC+Minas;Feel+free+to+wander+around!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20;My+name+is+Thiago+Pereira+de+Oliveira;Im+a+student+of+Computer+Science+at+PUC+Minas;Feel+free+to+wander+around!)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theE008&custom_title=My%20contributions%20/%20Minhas%20contribuições&hide_border=true&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **theE008/theE008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
