@@ -1,4 +1,7 @@
-
+|     |     |     |
+|-----|-----|-----|
+| ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=Saudações!;Meu+nome+é;Sou+um+estudante+de;Sinta-se+à+vontade+para) <br> ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=✧✦✧✦✧✦✧✦✧;Thiago+Pereira+de+Oliveira;Ciência+da+Computação+na+PUC+Minas;explorar!) | ![GIF](https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif) | ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=I+am+a+student+of;Feel+free+to;Greetings!;My+name+is) <br> ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Funnel+Display&weight=600&color=9136F7&center=true&vCenter=true&lines=✧✦✧✦✧✦✧✦✧;Thiago+Pereira+de+Oliveira;Computer+Science+at+PUC+Minas;wander+around!) |
+|     |     |     |
 
 <div style="text-align: center; width: 100%; margin-top: 20px;">
   <!-- GitHub Activity Graph -->
