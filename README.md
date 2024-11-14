@@ -37,6 +37,8 @@
  
 ### Me interessa estudar mais | I want to learn more in the close future:
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c++&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Parallel Computing](https://img.shields.io/badge/-Parallel_Computing-0D1117?style=for-the-badge&logo=parallel+computing&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
